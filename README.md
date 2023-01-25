@@ -1,5 +1,3 @@
-- 🌱 I’m currently learning **Linux, C#, Java**
-
 - 📫 How to reach me **bart.czerniak@gmail.com**
 
 
